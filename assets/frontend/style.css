@@ -1,0 +1,14 @@
+.films-template{
+    display: flex;
+    justify-content: space-between;
+}
+.wj-films-filter{
+    flex: 0 0 calc(30% - 2rem);
+    padding-left: 1rem;
+}
+.wj-films{
+    flex: 0 0 calc(70% - 2rem);
+}
+.wj-films article img{
+    width: 200px;
+}
